@@ -3,6 +3,8 @@ This is the code I used to complete the data analysis for my Masters Thesis.
 
 This project utilised the <a href="https://github.com/PantheonPlusSH0ES/DataRelease)https://github.com/PantheonPlusSH0ES/DataRelease">Pantheon+ Data Release, </a> to examine the evoltion of cosmological parameters with redshift as well as angular peculiarites relating to the Hubble constant. 
 
+THe code for the analsysis of the parameter evolution with apparent redshift can be found <a href="https://github.com/ruairi-mcc/probing_pantheon/blob/main/pantheon_parameter_evolution.ipynb">here.</a>
+
 The code for the angular data analysis can be found <a href="https://github.com/ruairi-mcc/probing_pantheon/blob/main/pantheon%2B_angles_final.ipynb">here.</a> 
 
 The abstract is included below:</br>
